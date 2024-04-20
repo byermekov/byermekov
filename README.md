@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a **Software Engineering Intern** at **Bowtie Life Insurance**
 
-- 👨‍💻 My current tech stack at work - **Django, Redis, Celery, AWS, CircleCI**
+- 👨‍💻 My current tech stack at work - **Django, Redis, GraphQL, Celery, AWS, CircleCI**
 
 - 🌱 I’m currently learning **Backend Development, NLP, QuantPy**
 
