@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Beket Yermekov</h1>
 <h3 align="center">A penultimate CS Student @ CityU with a profound interest in Data Science, Backend Development and Quantitative Finance</h3>
 
-- 🔭 I’m currently working as a **Backend SWE Intern** at **Bowtie Life Insurance**
+- 🔭 I’m currently working as a **Technology Summer Analyst** at **BTIG**
 
-- 👨‍💻 My current tech stack at work - **Django, Redis, GraphQL, Celery, AWS, CircleCI**
+- 👨‍💻 My current tech stack at work - **FastAPI, GraphQL, MariaDB, TypeScript MERN**
 
 - 🌱 I’m currently learning **Backend Development, NLP, CV, QuantPy**
 
-- 👨‍💻 My past internship experience : Data Science Intern
+- 👨‍💻 My past internship experience : Backend SWE Intern at InsurTech, Data Science Intern at AI firm.
 
 - 📫 How to reach me **byermekov2-c@my.cityu.edu.hk**
 
