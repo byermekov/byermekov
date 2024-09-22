@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Beket Yermekov</h1>
-<h3 align="center">A penultimate CS Student @ CityU with a profound interest in Data Science, Backend Development and Quantitative Finance</h3>
+<h3 align="center">A final year CS Student @ CityU with a profound interest in Data Science, Backend Development and Quantitative Finance</h3>
 
-- 🔭 I’m currently working as a **Technology Summer Analyst** at **BTIG**
+- 🔭 I’m currently working as a **Technology Summer Analyst** at **BTIG Institutional Equity Trading**
 
 - 👨‍💻 My current tech stack at work - **FastAPI, GraphQL, MariaDB, TypeScript MERN**
 
